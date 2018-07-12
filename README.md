@@ -11,4 +11,5 @@ npm i
 gulp dev;
 
 the miniApp_xsb is your wechat minApp folder
-you can eidt this folder name in config.js for your porject
+
+you can edit this folder‘s name in config.js for your porject
