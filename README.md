@@ -16,7 +16,7 @@ git clone 或者 下载zip下来
 
 加入了esLint js 规范， 
 
-.vscode 是 vscode 编辑的配置信息：
+.vscode 是 vscode 编辑器的配置信息：
 作用：按照eslint 规范在保存文件时自动格式化
 
 
